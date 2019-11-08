@@ -191,7 +191,7 @@
           <v-btn
             color="primary"
             nuxt
-            to="./"
+            to="/inspire"
           >
             Back
           </v-btn>
