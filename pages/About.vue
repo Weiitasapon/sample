@@ -193,7 +193,7 @@
             nuxt
             to="/inspire"
           >
-            Back
+            Backk
           </v-btn>
           <v-btn
             color="red"
