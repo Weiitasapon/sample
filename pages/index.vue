@@ -17,8 +17,8 @@
       >
       </div>
       <v-card>
-        <h1 style="text-align:center; font-family:Helvetica Neue;"> 
-          Welcome to the Agritech 
+        <h1 style="text-align:center; font-family:Helvetica Neue;">
+          Welcome to the Agritech Update Not
         </h1>
         <v-card-text>
           <h3>As one of significant economic problems in Thailand,
