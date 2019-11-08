@@ -14,7 +14,7 @@
         &#8220;From plant to customer we care&#8221;
         <footer>
           <small>
-            <em>&mdash;About us2</em>
+            <em>&mdash;About us</em>
           </small>
         </footer>
       </blockquote>
