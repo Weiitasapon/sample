@@ -5,7 +5,7 @@
     </div>
     <v-flex class="text-center">
       <img
-        src="../assets/img/Grouppic.jpg"
+        src="../assets/img/Grouppic.png"
         alt="Vuetify.js"
         class="mb-5"
         height="400px"
@@ -14,7 +14,7 @@
         &#8220;From plant to customer we care&#8221;
         <footer>
           <small>
-            <em>&mdash;About us</em>
+            <em>&mdash;About us2</em>
           </small>
         </footer>
       </blockquote>
