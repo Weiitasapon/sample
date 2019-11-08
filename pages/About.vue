@@ -63,7 +63,7 @@
   <v-card
     class="mx-auto"
     max-width="434"
-    
+
     tile
   >
     <v-img
@@ -193,7 +193,7 @@
             nuxt
             to="/inspire"
           >
-            Backk
+            Back
           </v-btn>
           <v-btn
             color="red"
