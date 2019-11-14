@@ -28,7 +28,7 @@
           <v-btn
             color="green"
             nuxt
-            to="/about"
+            to="/About"
           >
             About
           </v-btn>
