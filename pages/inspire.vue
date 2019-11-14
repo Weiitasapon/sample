@@ -14,7 +14,7 @@
           </small>
         </footer>
       </blockquote>
-       
+
   </v-card>
       <v-card-actions>
           <v-spacer />
@@ -28,7 +28,7 @@
           <v-btn
             color="green"
             nuxt
-            to="/About"
+            to="/about"
           >
             About
           </v-btn>

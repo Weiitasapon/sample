@@ -14,7 +14,7 @@
         &#8220;From plant to customer we care&#8221;
         <footer>
           <small>
-            <em>&mdash;About us</em>
+            <em>About us</em>
           </small>
         </footer>
       </blockquote>
@@ -106,6 +106,7 @@
     class="mx-auto"
     max-width="434"
     max-height="238"
+    to="/about_notto"
     tile
   >
     <v-img
