@@ -179,7 +179,7 @@
             dark
           >
             <v-list-item-content>
-              <v-list-item-title class="title">Teerapat Suteerapongpun</v-list-item-title>
+              <v-list-item-title class="title">Teerapat Suteerapongpun (K.T.)</v-list-item-title>
               <v-list-item-subtitle>Employee</v-list-item-subtitle>
             </v-list-item-content>
           </v-list-item>
